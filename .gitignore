@@ -1,0 +1,6 @@
+__pycache__
+venv
+*.sqlite3
+/library/migrations
+/epsic_library/__init__.py
+/library/__init__.py
